@@ -1,6 +1,7 @@
 # Home-Decor-Assistent-AI-
 🏠 Design Your Dream Space
 AI & AR Home Decor Assistant
+
 🔹 Overview
 
 Design Your Dream Space is an AI-powered and AR-based home decor assistant that helps users visualize furniture and decor items in their real rooms before purchasing them. It combines smart recommendations with real-time AR placement to make interior design easy and interactive.
