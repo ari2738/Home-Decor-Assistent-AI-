@@ -64,4 +64,6 @@ User places items in AR
 
 Save or purchase items
 
+sample prototype done by a figma make https://www.figma.com/make/2yeRngQkAoJRWAzFh777jh/Home-Decor-App-Screens?node-id=0-1&t=IaGxtJjtdK8pWY7e-1
+
 
